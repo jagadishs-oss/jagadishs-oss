@@ -2,7 +2,7 @@
 
 # Hi, I'm Jagadish 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=680&lines=Principal+Machine+learning+engineer+at+Red+Hat;Python+%7C+AI+Agents+%7C+Backend;Building+agent+systems+%26+OSS;Based+in+Bangalore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=680&lines=Principal+Machine+learning+engineer+at+Red+Hat;AI+Agents+%7C;Building+agent+systems+%26+OSS;Based+in+Bangalore)](https://git.io/typing-svg)
 
 **Principal Machine learning engineer at [Red Hat](https://www.redhat.com)** · Building agent systems, Python backends, and open source.
 
