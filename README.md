@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jagadish 👋
+# Jagadish Songpa Gounder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=680&lines=Engineer+at+Red+Hat;AI+Agents;Building+agent+systems+%26+OSS;Based+in+Bangalore)](https://git.io/typing-svg)
 
